@@ -1,2 +1,4 @@
 # CesarSchool_IntroAnalise
-Introdução a análise de dados
+Exercícios e projeto final da disciplina Introdução a análise de dados
+## Listas, Strings, Tuplas, Dicionário, funções
+## Numpy, Pandas 
